@@ -7,7 +7,7 @@ A lightweight Python automation tool designed for small businesses to automatica
 - Automatically suggests the next best action for the business owner.
 - Easily integrates into CRM systems or chat workflows.
 
-## Getting Started
+## Getting Started 
 
 ### 1. Clone the repository
 ```bash
